@@ -10,8 +10,6 @@
     &.root {
       padding: 10px;
       @media (min-width: 1024px) {
-        @include column-count(3);
-
         li.root {
           border: 1px solid #DDD;
           border-radius: 4px;
@@ -22,10 +20,6 @@
           vertical-align: top;
           width: 90%;
         }
-      }
-
-      @media (min-width: 1284px) {
-        @include column-count(4);
       }
     }
 
