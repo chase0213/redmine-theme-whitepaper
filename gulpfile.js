@@ -9,7 +9,7 @@ var reload = browserSync.reload;
 function compass(env) {
     gulp.src('./sass/*.scss')
         .pipe(plugins.compass({
-            config_file: 'sass/config.rb',
+            config_file: 'config.rb',
             environment: env,
             comments: env === 'development',
             style: env === 'development' ? 'expanded' : 'compact',
