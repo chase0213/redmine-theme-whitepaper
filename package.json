@@ -1,17 +1,17 @@
 {
-  "name": "gitmike",
-  "version": "1.0.7",
-  "description": "Redmine gitmike theme",
+  "name": "whitepaper",
+  "version": "1.0.0",
+  "description": "Redmine whitepaper theme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/makotokw/redmine-theme-gitmike.git"
+    "url": "git://github.com/chase0213/redmine-theme-whitepaper.git"
   },
-  "author": "Makoto Kawasaki",
-  "license": "GPLv2",
+  "author": "Chisato HASEGAWA",
+  "license": "GPLv3",
   "bugs": {
-    "url": "https://github.com/makotokw/redmine-theme-gitmike/issues"
+    "url": "https://github.com/chase0213/redmine-theme-whitepaper/issues"
   },
-  "homepage": "https://github.com/makotokw/redmine-theme-gitmike",
+  "homepage": "https://github.com/chase0213/redmine-theme-whitepaper",
   "devDependencies": {
     "browser-sync": "^2.8.0",
     "gulp": "^3.9.0",
