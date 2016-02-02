@@ -4,7 +4,7 @@ Redmine whitepaper theme
 This is github-like theme for Redmine.
 It is based on A1 theme version 1.0.3 by Kirill Bezrukov www.redminecrm.com, and gitmike theme version 1.0.7 by makotokw.
 
-<Screenshots will come lator...>
+![snapshot](https://github.com/chase0213/redmine-theme-whitepaper/blob/master/snapshots/overview.png)
 
 ## Installation
 
